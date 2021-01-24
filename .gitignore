@@ -1,0 +1,10 @@
+# IDE-specific 
+.idea/
+
+# compiled files
+*__pycache__*
+*.pyc
+
+# non-code files
+logs/
+dbs/
